@@ -14,4 +14,15 @@ WARNING:
 */
 
 
+-- Create Database 'DataWarehouse'
+CREATE DATABASE DataWarehouse;
+
+-- Create schema 'bronze'
+CREATE SCHEMA bronze;
+
+-- Create schema 'silver'
+CREATE SCHEMA silver;
+
+-- Create schema 'gold'
+CREATE SCHEMA gold;
 
